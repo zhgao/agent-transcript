@@ -1,0 +1,4 @@
+apify
+requests
+yt-dlp
+youtube-transcript-api
